@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPSWorksApp</string>
+    <string name="dialog_loading">Carregando…</string>
+    <string name="search">Pesquisar Filmes</string>
+    <string name="search_empty">Por favor digite o nome de um filme</string>
+    <string name="my_favorite_movie">❤ Meus filmes favoritos ❤</string>
+
+    <!-- Erros -->
+    <string name="no_name">Não encontramos o nome do filme</string>
+    <string name="error_search">Houve um erro ao tentar encontrar o filme, revise o nome e tente novamente!</string>
+    <string name="favorit">Favorito</string>
+</resources>

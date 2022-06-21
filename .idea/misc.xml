@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEV/androidStudio/ProjetosCurso/Teste-master/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.266" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/bg_efect_click.xml" value="0.266" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/bg_search.xml" value="0.266" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/buttom_custom_favorite.xml" value="0.172" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/ic_arrow.xml" value="0.172" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/ic_baseline_search.xml" value="0.266" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/drawable/ic_search_empty.xml" value="0.231" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout-v23/activity_home.xml" value="0.3625" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/activity_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/activity_home.xml" value="0.3625" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/bg_edit_text.xml" value="0.3625" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/bg_search.xml" value="0.3625" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/dialog_loading.xml" value="0.3625" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/layout/list_item_movie.xml" value="0.3625" />
+        <entry key="..\:/Users/guise/AndroidStudioProjects/GPSWorksApp/app/src/main/res/xml/network_security_config.xml" value="0.14351851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
