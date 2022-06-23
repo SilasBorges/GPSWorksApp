@@ -18,8 +18,4 @@ O projeto usa o padrão de arquitetura MVVM
 * [Lottie](https://airbnb.design/lottie/) - Para a crianção de animações.
 * [Room](https://developer.android.com/jetpack/androidx/releases/room) - Para a criação de banco local.
 
-## Screenshots Portrait
-![image](https://user-images.githubusercontent.com/55321777/157317002-31ef8b39-0a9d-44d3-a3b5-30dd97d73811.png)|![image](https://user-images.githubusercontent.com/55321777/157301593-4eb8a046-6be4-4af8-a094-adac5c482cc4.png)|![image](https://user-images.githubusercontent.com/55321777/157317068-82bac2ce-082f-477c-982d-faa991280f68.png)
 
-## Screenshots Land
-![image](https://user-images.githubusercontent.com/55321777/157317238-b140e142-a44b-4cdf-b635-08e7ace559b8.png)|![image](https://user-images.githubusercontent.com/55321777/157302129-99b32ff3-241c-4e37-b373-5997f7ce148f.png)|![image](https://user-images.githubusercontent.com/55321777/157317260-62bc3605-46e1-4a53-8c04-f143f97a682f.png)
